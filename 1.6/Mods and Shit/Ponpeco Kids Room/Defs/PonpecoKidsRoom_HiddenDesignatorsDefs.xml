@@ -38,6 +38,7 @@
 			<li>PFK_GiantPlushieB</li>
 			<li>PFK_GiantPlushieM</li>
 			<li>PFK_GiantPlushie</li>
+			<li>PFK_AdaptiveClothingRack</li>
 		</hiddenDesignators>							
 	</VEF.Buildings.HiddenDesignatorsDef>
 </Defs>
